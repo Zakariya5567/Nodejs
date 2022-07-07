@@ -1,0 +1,4 @@
+->> Mongoose is a packege used for mongodb ,
+->> Mongoose provide us things more easy, use for validations
+->> Schemas  use to validate yours filds.
+->> model connect node js to database
